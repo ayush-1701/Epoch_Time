@@ -28,7 +28,7 @@ for i in range(df_len):
     else:
         input_list.append(label)
 
-df["col2"] = input_list
+df["new_Col2"] = input_list
 print(df)
 
 df.to_csv("./solution.csv")
