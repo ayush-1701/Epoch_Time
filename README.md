@@ -1,4 +1,4 @@
-# Intern1
+# Operations on Sample Data ()
 RanchPal Assessment
 
 The following operations are performed on the given dataset: 
